@@ -4,6 +4,7 @@
 #include <credits>
 #include <crxranks>
 
+//forward from deathrun duel plugin
 forward player_won_duel(id);
 
 #define DUEL_NUM 4
