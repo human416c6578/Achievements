@@ -1,8 +1,8 @@
-#include < amxmodx >
-#include < timer >
-#include < achievement_api >
-#include < credits >
-#include < crxranks >
+#include <amxmodx>
+#include <timer>
+#include <achievement_api>
+#include <credits>
+#include <crxranks>
 
 #define FINISH_NUM 6
 #define RECORD_NUM 4

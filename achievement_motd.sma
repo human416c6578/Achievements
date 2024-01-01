@@ -1,9 +1,9 @@
-#include < amxmodx >
-#include < sockets >
-#include < achievement_api >
+#include <amxmodx>
+#include <sockets>
+#include <achievement_api>
 
 
-enum _:eAchievement{
+enum eAchievement{
 	 eName[32],
 	 eDesc[64],
 	 eMaxVal,

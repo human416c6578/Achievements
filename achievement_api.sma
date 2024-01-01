@@ -1,7 +1,7 @@
-#include < amxmodx >
-#include < hamsandwich >
-#include < nvault >
-#include < cromchat >
+#include <amxmodx>
+#include <hamsandwich>
+#include <nvault>
+#include <cromchat>
 
 #define DebugMode
 
@@ -11,7 +11,7 @@ enum eStatus
 	_Unlocked
 };
 
-enum _:eAchievementsStruct
+enum eAchievementsStruct
 {
 	eName[ 64 ],
 	eDescription[ 256 ],

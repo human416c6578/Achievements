@@ -10,7 +10,7 @@ enum Status
 	_Unlocked
 };
 
-enum _:AchievementDataStruct
+enum AchievementDataStruct
 {
 	eName[ MAX_PLAYERS ],
 	eDescription[ 256 ],

@@ -1,10 +1,10 @@
-#include < amxmodx >
-#include < cstrike >
-#include < fakemeta >
-#include < hamsandwich >
-#include < achievement_api >
-#include < credits >
-#include < crxranks >
+#include <amxmodx>
+#include <cstrike>
+#include <fakemeta>
+#include <hamsandwich>
+#include <achievement_api>
+#include <credits>
+#include <crxranks>
 
 #define m_bitsDamageType 76
 

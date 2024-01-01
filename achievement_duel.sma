@@ -1,8 +1,8 @@
-#include < amxmodx >
-#include < cstrike >
-#include < achievement_api >
-#include < credits >
-#include < crxranks >
+#include <amxmodx>
+#include <cstrike>
+#include <achievement_api>
+#include <credits>
+#include <crxranks>
 
 forward player_won_duel(id);
 

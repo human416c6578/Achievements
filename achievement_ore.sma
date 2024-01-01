@@ -1,10 +1,10 @@
-#include < amxmodx >
-#include < cstrike >
-#include < engine >
-#include < hamsandwich >
-#include < achievement_api >
-#include < credits >
-#include < crxranks >
+#include <amxmodx>
+#include <cstrike>
+#include <engine>
+#include <hamsandwich>
+#include <achievement_api>
+#include <credits>
+#include <crxranks>
 
 #define TIME_NUM 4
 
